@@ -1,2 +1,0 @@
-# python
-Print("hello github")
